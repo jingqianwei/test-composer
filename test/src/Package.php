@@ -1,7 +1,7 @@
 <?php
 namespace testcomposer\Demo;
 
-class package
+class Package
 {
     private $name;
 
