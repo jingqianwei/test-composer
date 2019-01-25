@@ -1,0 +1,13 @@
+{
+    "name": "test/composer",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "test-composer\\test\\": "src" }
+    }
+}
